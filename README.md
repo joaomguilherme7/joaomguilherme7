@@ -34,7 +34,7 @@ Linux • Git • CLI • Infraestrutura • Segurança • AppSheet • Google 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/joaomguilherme)](https://linkedin.com/in/joaomguilherme)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)]
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:joaomguilherme@icloud.com)
 
 ---
 
