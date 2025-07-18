@@ -3,7 +3,7 @@
 
 <p align="center">
 🚀 Em transição de carreira para a área de <strong>tecnologia</strong>, depois de 9+ anos no setor administrativo (contratos, processos e atendimento).<br>
-🎯 Foco atual em <strong>Segurança da Informação</strong>, <strong>Blue Team</strong>, <strong>Analista SOC</strong> e <strong>Cibersegurança</strong>.
+🎯 Foco em <strong>Segurança da Informação</strong>, <strong>Blue Team</strong>, <strong>Analista SOC</strong> e <strong>Cibersegurança</strong>.
 </p>
 
 ---
