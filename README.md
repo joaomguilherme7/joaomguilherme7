@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou o Guilherme</h1>
 
-<p align="center">
+<p align="justify">
 🔐 Em transição para a área de <strong>Segurança Cibernética</strong>, após 9 anos de experiência com <strong>suporte técnico, infraestrutura e processos administrativos</strong>.<br>
 🎯 Foco em <strong>Blue Team</strong>, <strong>Analista SOC</strong>, <strong>Resposta a Incidentes</strong> e <strong>Monitoramento de Segurança</strong>.
 </p>
