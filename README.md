@@ -8,29 +8,35 @@
 ---
 
 ## 🧠 Estudando & Praticando:
-- 🐧 Linux (CLI, permissões, processos, SSH)
-- 🔐 Fundamentos de Segurança da Informação e Cibersegurança
-- 🌐 Redes, Firewalls e Resposta a Incidentes
-- 💻 Git & GitHub
-- 📊 Automatização com AppSheet + Google Sheets
-- 🧪 Ferramentas: AnyDesk, TeamViewer, Wireshark, Nmap (iniciante)
+- Linux (CLI, permissões, processos, SSH)
+- Fundamentos de Segurança da Informação e Cibersegurança
+- Redes, Firewalls e Resposta a Incidentes
+- Git & GitHub
+- Automatização com AppSheet + Google Sheets
+- Ferramentas: AnyDesk, TeamViewer, Wireshark, Nmap (iniciante)
 
 ---
 
 ## 🎓 Formação Acadêmica
-- 📚 Bacharelado em Segurança da Informação – Universidade São Judas Tadeu (em andamento)
-- 💻 Análise e Desenvolvimento de Sistemas – Mackenzie (2024)
-- ⚖️ Direito – UNINOVE (incompleto)
+- Bacharelado em Segurança da Informação – Universidade São Judas Tadeu (2025 - 2027)
+- Análise e Desenvolvimento de Sistemas – Mackenzie (2024)
+- Direito – UNINOVE (2021 - 2022)
 
 ---
 
 ## 🏅 Certificações
-- 📜 ISC2 Candidate
-- 🎓 Introduction to Cybersecurity (Cisco)
-- 🔐 Boas Práticas de Cibersegurança
-- 🐧 Linux: diretórios, permissões e processos
-- 👨‍💻 Formação Iniciante em Programação (Alura)
+- Boas Práticas de Cibersegurança - Instituto Brasileiro de Cibersegurança (2025)
+- ISC2 Candidate
 
+---
+
+## 📚 CURSOS COMPLEMENTARES
+- Metodologias Internacionais em Gerenciamento de Projetos - FGV Online (2025)
+- Linux: diretórios, permissões e processos - Alura (2025)
+- Formação Iniciante em Programação - Alura (2024)
+- Introduction to Cybersecurity - Cisco Networking Academy (2024)
+
+  
 ---
 
 ## 💡 Projetos e Portfólio
